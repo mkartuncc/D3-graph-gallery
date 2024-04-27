@@ -1,0 +1,16 @@
+carrier_name,year,delayed,cancelled,diverted,ontime,,,,,
+American Airlines Inc.,2011,103978,13527,2024,418650,,,,,
+American Airlines Inc.,2012,109752,9569,1777,404122,,,,,
+American Airlines Inc.,2013,108865,9749,1786,417491,,,,,
+American Airlines Inc.,2014,119751,8457,1957,407532,,,,,
+American Airlines Inc.,2015,130279,10919,2130,582656,,,,,
+American Airlines Inc.,2016,175453,10866,2216,725959,,,,,
+American Airlines Inc.,2017,162026,12138,1992,720192,,,,,
+American Airlines Inc.,2018,180794,14945,2346,718733,,,,,
+American Airlines Inc.,2019,195097,20151,2383,729145,,,,,
+American Airlines Inc.,2020,59551,34207,935,475058,,,,,
+,,,,,,,,,,
+group,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+delayed,120,119,123,110,143,156,175,167,148,145
+cancelled,93,69,69,62,84,88,97,96,114,134
+ontime,462,446,459,449,538,614,622,614,602,511
